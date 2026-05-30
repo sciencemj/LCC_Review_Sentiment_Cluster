@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Claude Code local config
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
