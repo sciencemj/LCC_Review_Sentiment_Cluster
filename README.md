@@ -6,6 +6,8 @@
 
 A 6-step analysis report: from business problem to expected value.
 
+📊 **[View the interactive HTML report →](https://sciencemj.github.io/LCC_Review_Sentiment_Cluster/report.html)**
+
 ---
 
 ## 1. What is the problem?
